@@ -1,0 +1,289 @@
+19:22:30 INF [API] listening addr=127.0.0.1:49176
+19:22:30 INF [Inbound] Mixed(http+socks) listening addr=[::]:61518
+19:22:30 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49190 rAddr=pd.itunes.apple.com:443 proxy=DIRECT
+19:22:31 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49192 rAddr=raw.githubusercontent.com:443 proxy=DIRECT
+19:22:31 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49193 rAddr=naixiapi.com:443 proxy=DIRECT
+19:22:31 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49202 rAddr=bag.itunes.apple.com:443 proxy=DIRECT
+19:22:31 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49201 rAddr=191.223.220.36:18357 proxy=DIRECT
+19:22:31 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49205 rAddr=s.mzstatic.com:443 proxy=DIRECT
+19:22:31 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49209 rAddr=fpinit.itunes.apple.com:443 proxy=DIRECT
+19:22:31 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49213 rAddr=gateway.icloud.com.cn:443 proxy=DIRECT
+19:22:32 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49215 rAddr=mesu.apple.com:443 proxy=DIRECT
+19:22:32 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49217 rAddr=api.smoot.apple.cn:443 proxy=DIRECT
+19:22:32 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49219 rAddr=ocsp2.apple.com:443 proxy=DIRECT
+19:22:32 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49223 rAddr=191.223.220.36:18357 proxy=DIRECT
+19:22:32 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49220 rAddr=ocsp.comodoca.com:80 proxy=DIRECT
+19:22:32 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49225 rAddr=191.223.220.36:18357 proxy=DIRECT
+19:22:32 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49230 rAddr=191.223.220.36:18357 proxy=DIRECT
+19:22:32 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49227 rAddr=191.223.220.36:18357 proxy=DIRECT
+19:22:32 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49229 rAddr=191.223.220.36:18357 proxy=DIRECT
+19:22:32 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49228 rAddr=191.223.220.36:18357 proxy=DIRECT
+19:22:32 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49233 rAddr=191.223.220.36:18357 proxy=DIRECT
+19:22:33 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49237 rAddr=gateway.icloud.com.cn:443 proxy=DIRECT
+19:22:34 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49239 rAddr=gateway.icloud.com.cn:443 proxy=DIRECT
+19:22:34 INF [TCP] connected, doesn't match any rule lAddr=127.0.0.1:49241 rAddr=bag.itunes.apple.com:443 proxy=DIRECT
+19:22:34 INF [Config] initial compatible provider name=Scholar
+19:22:34 INF [Config] initial compatible provider name=Steam
+19:22:34 INF [Config] initial compatible provider name=MyTVSuper
+19:22:34 INF [Config] initial compatible provider name=Tiktok
+19:22:34 INF [Config] initial compatible provider name=Epic
+19:22:34 INF [Config] initial compatible provider name=Proxies
+19:22:34 INF [Config] initial compatible provider name=Crypto
+19:22:34 INF [Config] initial compatible provider name=Bilibili
+19:22:34 INF [Config] initial compatible provider name=Telegram
+19:22:34 INF [Config] initial compatible provider name=Netflix
+19:22:34 INF [Config] initial compatible provider name=Microsoft
+19:22:34 INF [Config] initial compatible provider name=🎯Direct
+19:22:34 INF [Config] initial compatible provider name=HBO
+19:22:34 INF [Config] initial compatible provider name=Apple
+19:22:34 INF [Config] initial compatible provider name=PlayStation
+19:22:34 INF [Config] initial compatible provider name=Bahamut
+19:22:34 INF [Config] initial compatible provider name=AI
+19:22:34 INF [Config] initial compatible provider name=Google
+19:22:34 INF [Config] initial compatible provider name=Xbox
+19:22:34 INF [Config] initial compatible provider name=DisneyPlus
+19:22:34 INF [Config] initial compatible provider name=YouTube
+19:22:34 INF [Config] initial compatible provider name=✈️Final
+19:22:34 INF [DNS] server listening addr=[::]:1053
+19:22:35 INF [TCP] connected lAddr=127.0.0.1:49249 rAddr=update.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[14.35 G | 200.00 G]
+19:22:35 INF [TCP] connected lAddr=127.0.0.1:49248 rAddr=mail.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:35 WRN [TCP] dial failed error=dial tcp4 103.70.77.214:443: i/o timeout proxy=DIRECT rAddr=gspe1-ssl.ls.apple.com:443
+19:22:35 INF [TCP] connected lAddr=127.0.0.1:49259 rAddr=gs-loc-cn.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:36 WRN [TCP] dial failed error=dial tcp4 103.70.77.214:443: i/o timeout proxy=DIRECT rAddr=gspe1-ssl.ls.apple.com:443
+19:22:36 INF [TCP] connected lAddr=127.0.0.1:49264 rAddr=mtalk.google.com:5228 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:36 INF [TCP] connected lAddr=127.0.0.1:49265 rAddr=android.clients.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:36 INF [TCP] connected lAddr=127.0.0.1:49262 rAddr=gspe1-ssl.ls.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:36 WRN [TCP] dial failed error=dial tcp4 103.70.77.214:443: i/o timeout proxy=DIRECT rAddr=gspe1-ssl.ls.apple.com:443
+19:22:36 WRN [TCP] dial failed error=dial tcp4 103.70.77.214:443: i/o timeout proxy=DIRECT rAddr=gspe1-ssl.ls.apple.com:443
+19:22:36 INF [TCP] connected lAddr=127.0.0.1:49269 rAddr=cdsassets.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:36 INF [TCP] connected lAddr=127.0.0.1:49275 rAddr=gspe1-ssl.ls.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:36 INF [TCP] connected lAddr=127.0.0.1:49278 rAddr=gspe1-ssl.ls.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:36 INF [TCP] connected lAddr=127.0.0.1:49273 rAddr=p236-fmipmobile.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:22:37 INF [TCP] connected lAddr=127.0.0.1:49280 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=YouTube[14.35 G | 200.00 G]
+19:22:37 INF [TCP] connected lAddr=127.0.0.1:49283 rAddr=guzzoni.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:37 INF [TCP] connected lAddr=127.0.0.1:49284 rAddr=gateway.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:22:37 INF [TCP] connected lAddr=127.0.0.1:49287 rAddr=content-autofill.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[14.35 G | 200.00 G]
+19:22:38 INF [TCP] connected lAddr=127.0.0.1:49289 rAddr=gdmf.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:38 INF [TCP] connected lAddr=127.0.0.1:49303 rAddr=www.google.com.hk:443 mode=rule rule=DomainSuffix(google.com.hk) proxy=Google[14.35 G | 200.00 G]
+19:22:38 INF [TCP] connected lAddr=127.0.0.1:49304 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:39 INF [TCP] connected lAddr=127.0.0.1:49307 rAddr=xp.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:39 INF [TCP] connected lAddr=127.0.0.1:49309 rAddr=xp.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:40 INF [TCP] connected lAddr=127.0.0.1:49308 rAddr=sse-ws-p189.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:40 INF [TCP] connected lAddr=127.0.0.1:49313 rAddr=stocks-data-service.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:40 INF [TCP] connected lAddr=127.0.0.1:49315 rAddr=gateway.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:22:41 INF [TCP] connected lAddr=127.0.0.1:49317 rAddr=configuration.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:41 INF [TCP] connected lAddr=127.0.0.1:49321 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=YouTube[14.35 G | 200.00 G]
+19:22:41 INF [TCP] connected lAddr=127.0.0.1:49320 rAddr=github.com:443 mode=rule rule=DomainKeyword(github) proxy=Proxies[14.35 G | 200.00 G]
+19:22:41 INF [TCP] connected lAddr=127.0.0.1:49322 rAddr=github.githubassets.com:443 mode=rule rule=DomainKeyword(github) proxy=Proxies[14.35 G | 200.00 G]
+19:22:41 INF [TCP] connected lAddr=127.0.0.1:49326 rAddr=i.ytimg.com:443 mode=rule rule=DomainSuffix(ytimg.com) proxy=YouTube[14.35 G | 200.00 G]
+19:22:41 INF [TCP] connected lAddr=127.0.0.1:49328 rAddr=ios.chat.openai.com:443 mode=rule rule=DomainSuffix(openai.com) proxy=AI[14.35 G | 200.00 G]
+19:22:42 INF [TCP] connected lAddr=127.0.0.1:49330 rAddr=github.githubassets.com:443 mode=rule rule=DomainKeyword(github) proxy=Proxies[14.35 G | 200.00 G]
+19:22:42 INF [TCP] connected lAddr=127.0.0.1:49331 rAddr=avatars.githubusercontent.com:443 mode=rule rule=DomainKeyword(github) proxy=Proxies[14.35 G | 200.00 G]
+19:22:42 INF [TCP] connected lAddr=127.0.0.1:49319 rAddr=swscan.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:42 INF [TCP] connected lAddr=127.0.0.1:49337 rAddr=rr5---sn-un57snee.c.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=YouTube[14.35 G | 200.00 G]
+19:22:42 INF [TCP] connected lAddr=127.0.0.1:49336 rAddr=rr4---sn-oji3b5-5n.googlevideo.com:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:42 INF [TCP] connected lAddr=127.0.0.1:49341 rAddr=rr1---sn-oji3bc-5n.googlevideo.com:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:42 INF [TCP] connected lAddr=127.0.0.1:49342 rAddr=swdist.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:42 INF [TCP] connected lAddr=127.0.0.1:49344 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[14.35 G | 200.00 G]
+19:22:42 INF [TCP] connected lAddr=127.0.0.1:49347 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:22:43 INF [TCP] connected lAddr=127.0.0.1:49338 rAddr=p236-fmip.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:22:43 INF [TCP] connected lAddr=127.0.0.1:49350 rAddr=ocsp2.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:43 INF [TCP] connected lAddr=127.0.0.1:49352 rAddr=gdmf.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:43 INF [TCP] connected lAddr=127.0.0.1:49354 rAddr=googleads.g.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=Google[14.35 G | 200.00 G]
+19:22:44 INF [TCP] connected lAddr=127.0.0.1:49356 rAddr=content-autofill.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[14.35 G | 200.00 G]
+19:22:44 INF [TCP] connected lAddr=127.0.0.1:49358 rAddr=xp.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:44 INF [TCP] connected lAddr=127.0.0.1:49360 rAddr=gdmf.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:46 INF [TCP] connected lAddr=127.0.0.1:49362 rAddr=gateway.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:22:46 INF [TCP] connected lAddr=127.0.0.1:49364 rAddr=gateway.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:22:47 INF [TCP] connected lAddr=127.0.0.1:49368 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:47 INF [TCP] connected lAddr=127.0.0.1:49370 rAddr=ogads-pa.clients6.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:47 INF [TCP] connected lAddr=127.0.0.1:49367 rAddr=www.googleadservices.com:443 mode=rule rule=DomainSuffix(googleadservices.com) proxy=Google[14.35 G | 200.00 G]
+19:22:48 INF [TCP] connected lAddr=127.0.0.1:49372 rAddr=p236-quota.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:22:48 INF [TCP] connected lAddr=127.0.0.1:49376 rAddr=ogads-pa.clients6.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:50 INF [TCP] connected lAddr=127.0.0.1:49379 rAddr=swscan.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:50 INF [TCP] connected lAddr=127.0.0.1:49378 rAddr=play.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:50 INF [TCP] connected lAddr=127.0.0.1:49382 rAddr=play.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:50 INF [TCP] connected lAddr=127.0.0.1:49386 rAddr=gsa.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:52 INF [TCP] connected lAddr=127.0.0.1:49388 rAddr=gdmf.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:52 INF [TCP] connected lAddr=127.0.0.1:49390 rAddr=bag.itunes.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:52 INF [TCP] connected lAddr=127.0.0.1:49392 rAddr=guzzoni.smoot.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:52 INF [TCP] connected lAddr=127.0.0.1:49394 rAddr=bag.itunes.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:52 INF [TCP] connected lAddr=127.0.0.1:49396 rAddr=sas.pcms.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:52 INF [TCP] connected lAddr=127.0.0.1:49398 rAddr=mesu.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:55 INF [TCP] connected lAddr=127.0.0.1:49401 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:55 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=r3---sn-2x3eenes.googlevideo.com:443 rule=DomainKeyword rulePayload=google
+19:22:55 INF [TCP] connected lAddr=127.0.0.1:49400 rAddr=ep1.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:55 INF [TCP] connected lAddr=127.0.0.1:49404 rAddr=r3---sn-2x3eenes.googlevideo.com:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:55 INF [TCP] connected lAddr=127.0.0.1:49406 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=YouTube[14.35 G | 200.00 G]
+19:22:55 INF [TCP] connected lAddr=127.0.0.1:49408 rAddr=ep2.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:56 INF [TCP] connected lAddr=127.0.0.1:49413 rAddr=ep2.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:56 INF [TCP] connected lAddr=127.0.0.1:49416 rAddr=www.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=YouTube[14.35 G | 200.00 G]
+19:22:56 INF [TCP] connected lAddr=127.0.0.1:49410 rAddr=www.kjfx.cc:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:22:56 INF [TCP] connected lAddr=127.0.0.1:49412 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[14.35 G | 200.00 G]
+19:22:56 INF [TCP] connected lAddr=127.0.0.1:49415 rAddr=collector.github.com:443 mode=rule rule=DomainKeyword(github) proxy=Proxies[14.35 G | 200.00 G]
+19:22:56 INF [TCP] connected lAddr=127.0.0.1:49419 rAddr=rr2---sn-un57snee.c.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=YouTube[14.35 G | 200.00 G]
+19:22:56 INF [TCP] connected lAddr=127.0.0.1:49420 rAddr=rr5---sn-i3b7knlk.googlevideo.com:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:56 INF [TCP] connected lAddr=127.0.0.1:49426 rAddr=i.ytimg.com:443 mode=rule rule=DomainSuffix(ytimg.com) proxy=YouTube[14.35 G | 200.00 G]
+19:22:56 INF [TCP] connected lAddr=127.0.0.1:49428 rAddr=googleads.g.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=Google[14.35 G | 200.00 G]
+19:22:56 INF [TCP] connected lAddr=127.0.0.1:49430 rAddr=static.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=Google[14.35 G | 200.00 G]
+19:22:57 INF [TCP] connected lAddr=127.0.0.1:49432 rAddr=fonts.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[14.35 G | 200.00 G]
+19:22:57 INF [TCP] connected lAddr=127.0.0.1:49434 rAddr=ep1.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:57 INF [TCP] connected lAddr=127.0.0.1:49437 rAddr=googleads.g.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=Google[14.35 G | 200.00 G]
+19:22:57 INF [TCP] connected lAddr=127.0.0.1:49436 rAddr=jnn-pa.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[14.35 G | 200.00 G]
+19:22:57 INF [TCP] connected lAddr=127.0.0.1:49440 rAddr=pagead2.googlesyndication.com:443 mode=rule rule=DomainSuffix(googlesyndication.com) proxy=Google[14.35 G | 200.00 G]
+19:22:58 INF [TCP] connected lAddr=127.0.0.1:49442 rAddr=googleads.g.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=Google[14.35 G | 200.00 G]
+19:22:58 INF [TCP] connected lAddr=127.0.0.1:49447 rAddr=googleads.g.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=Google[14.35 G | 200.00 G]
+19:22:58 INF [TCP] connected lAddr=127.0.0.1:49450 rAddr=pagead2.googlesyndication.com:443 mode=rule rule=DomainSuffix(googlesyndication.com) proxy=Google[14.35 G | 200.00 G]
+19:22:58 INF [TCP] connected lAddr=127.0.0.1:49446 rAddr=kjfx.github.io:443 mode=rule rule=DomainKeyword(github) proxy=Proxies[14.35 G | 200.00 G]
+19:22:58 INF [TCP] connected lAddr=127.0.0.1:49448 rAddr=nodebuf.com:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:22:58 INF [TCP] connected lAddr=127.0.0.1:49454 rAddr=img.v2rayse.com:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:22:58 INF [TCP] connected lAddr=127.0.0.1:49455 rAddr=us.i.posthog.com:443 mode=rule rule=IPCIDR(18.208.0.0/13) proxy=Proxies[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49458 rAddr=ep1.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49461 rAddr=googleads.g.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49460 rAddr=sas.pcms.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49464 rAddr=www.gstatic.com:443 mode=rule rule=DomainSuffix(gstatic.com) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49465 rAddr=fonts.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49468 rAddr=ep1.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49472 rAddr=pagead2.googlesyndication.com:443 mode=rule rule=DomainSuffix(googlesyndication.com) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49474 rAddr=static.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49475 rAddr=pagead2.googlesyndication.com:443 mode=rule rule=DomainSuffix(googlesyndication.com) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49478 rAddr=www.googleadservices.com:443 mode=rule rule=DomainSuffix(googleadservices.com) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49480 rAddr=sas.pcms.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49482 rAddr=ep1.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49484 rAddr=www.googleadservices.com:443 mode=rule rule=DomainSuffix(googleadservices.com) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49487 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49486 rAddr=ep2.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49490 rAddr=www.googleadservices.com:443 mode=rule rule=DomainSuffix(googleadservices.com) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49471 rAddr=www.googletagmanager.com:443 mode=rule rule=DomainSuffix(googletagmanager.com) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49496 rAddr=ep2.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49498 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49494 rAddr=sas.pcms.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:22:59 INF [TCP] connected lAddr=127.0.0.1:49501 rAddr=pagead2.googlesyndication.com:443 mode=rule rule=DomainSuffix(googlesyndication.com) proxy=Google[14.35 G | 200.00 G]
+19:23:00 INF [TCP] connected lAddr=127.0.0.1:49510 rAddr=ep1.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:23:00 INF [TCP] connected lAddr=127.0.0.1:49509 rAddr=ep1.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:23:00 INF [TCP] connected lAddr=127.0.0.1:49506 rAddr=static.cloudflareinsights.com:443 mode=rule rule=Domain(static.cloudflareinsights.com) proxy=AI[14.35 G | 200.00 G]
+19:23:00 INF [TCP] connected lAddr=127.0.0.1:49505 rAddr=fastly.jsdelivr.net:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:23:01 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=fonts.googleapis.com:443 rule=DomainSuffix rulePayload=googleapis.com
+19:23:01 INF [TCP] connected lAddr=127.0.0.1:49520 rAddr=static.cloudflareinsights.com:443 mode=rule rule=Domain(static.cloudflareinsights.com) proxy=AI[14.35 G | 200.00 G]
+19:23:01 INF [TCP] connected lAddr=127.0.0.1:49519 rAddr=cdnjs.cloudflare.com:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:23:01 INF [TCP] connected lAddr=127.0.0.1:49518 rAddr=console.evoxt.com:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:23:01 INF [TCP] connected lAddr=127.0.0.1:49524 rAddr=appcast.pqrs.org:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:23:02 INF [TCP] connected lAddr=127.0.0.1:49527 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:23:02 INF [TCP] connected lAddr=127.0.0.1:49528 rAddr=googleads.g.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=Google[14.35 G | 200.00 G]
+19:23:02 INF [TCP] connected lAddr=127.0.0.1:49526 rAddr=ad.doubleclick.net:443 mode=rule rule=DomainSuffix(doubleclick.net) proxy=Google[14.35 G | 200.00 G]
+19:23:02 INF [TCP] connected lAddr=127.0.0.1:49533 rAddr=www.googleadservices.com:443 mode=rule rule=DomainSuffix(googleadservices.com) proxy=Google[14.35 G | 200.00 G]
+19:23:02 INF [TCP] connected lAddr=127.0.0.1:49532 rAddr=www.google-analytics.com:443 mode=rule rule=DomainSuffix(google-analytics.com) proxy=Google[14.35 G | 200.00 G]
+19:23:02 INF [TCP] connected lAddr=127.0.0.1:49535 rAddr=www.clarity.ms:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:23:03 INF [TCP] connected lAddr=127.0.0.1:49536 rAddr=bat.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=Microsoft[DIRECT]
+19:23:03 INF [TCP] connected lAddr=127.0.0.1:49541 rAddr=bat.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=Microsoft[DIRECT]
+19:23:03 INF [TCP] connected lAddr=127.0.0.1:49540 rAddr=bat.bing.com:443 mode=rule rule=DomainSuffix(bing.com) proxy=Microsoft[DIRECT]
+19:23:03 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=android.clients.google.com:443 rule=DomainSuffix rulePayload=google.com
+19:23:03 INF [TCP] connected lAddr=127.0.0.1:49544 rAddr=www.google-analytics.com:443 mode=rule rule=DomainSuffix(google-analytics.com) proxy=Google[14.35 G | 200.00 G]
+19:23:03 INF [TCP] connected lAddr=127.0.0.1:49548 rAddr=www.googletagmanager.com:443 mode=rule rule=DomainSuffix(googletagmanager.com) proxy=Google[14.35 G | 200.00 G]
+19:23:04 INF [TCP] connected lAddr=127.0.0.1:49550 rAddr=www.google-analytics.com:443 mode=rule rule=DomainSuffix(google-analytics.com) proxy=Google[14.35 G | 200.00 G]
+19:23:04 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=✈️Final rAddr=editor.tool.ren:443 rule=Match rulePayload=
+19:23:04 INF [TCP] connected lAddr=127.0.0.1:49553 rAddr=editor.tool.ren:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:23:04 INF [TCP] connected lAddr=127.0.0.1:49555 rAddr=www.googleadservices.com:443 mode=rule rule=DomainSuffix(googleadservices.com) proxy=Google[14.35 G | 200.00 G]
+19:23:04 INF [TCP] connected lAddr=127.0.0.1:49552 rAddr=e.clarity.ms:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:23:04 INF [TCP] connected lAddr=127.0.0.1:49560 rAddr=www.googleadservices.com:443 mode=rule rule=DomainSuffix(googleadservices.com) proxy=Google[14.35 G | 200.00 G]
+19:23:04 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=✈️Final rAddr=v2rayu.org:443 rule=Match rulePayload=
+19:23:04 INF [TCP] connected lAddr=127.0.0.1:49562 rAddr=v2rayu.org:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:23:05 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=ep1.adtrafficquality.google:443 rule=DomainKeyword rulePayload=google
+19:23:05 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=✈️Final rAddr=www.dmit.io:443 rule=Match rulePayload=
+19:23:05 INF [TCP] connected lAddr=127.0.0.1:49567 rAddr=ep1.adtrafficquality.google:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:23:05 INF [TCP] connected lAddr=127.0.0.1:49569 rAddr=www.dmit.io:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:23:05 INF [TCP] connected lAddr=127.0.0.1:49565 rAddr=www.google.cn:443 mode=rule rule=DomainSuffix(google.cn) proxy=Google[14.35 G | 200.00 G]
+19:23:05 INF [TCP] connected lAddr=127.0.0.1:49572 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:23:06 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=fonts.googleapis.com:443 rule=DomainSuffix rulePayload=googleapis.com
+19:23:06 INF [TCP] connected lAddr=127.0.0.1:49574 rAddr=challenges.cloudflare.com:443 mode=rule rule=DomainSuffix(challenges.cloudflare.com) proxy=Proxies[14.35 G | 200.00 G]
+19:23:07 INF [TCP] connected lAddr=127.0.0.1:49576 rAddr=brunhild.challenges.cloudflare.com:443 mode=rule rule=DomainSuffix(challenges.cloudflare.com) proxy=Proxies[14.35 G | 200.00 G]
+19:23:07 INF [TCP] connected lAddr=127.0.0.1:49578 rAddr=brunhild.challenges.cloudflare.com:443 mode=rule rule=DomainSuffix(challenges.cloudflare.com) proxy=Proxies[14.35 G | 200.00 G]
+19:23:08 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=android.clients.google.com:443 rule=DomainSuffix rulePayload=google.com
+19:23:08 INF [TCP] connected lAddr=127.0.0.1:49580 rAddr=gateway.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:23:09 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=www.googleadservices.com:443 rule=DomainSuffix rulePayload=googleadservices.com
+19:23:09 INF [TCP] connected lAddr=127.0.0.1:49582 rAddr=www.googleadservices.com:443 mode=rule rule=DomainSuffix(googleadservices.com) proxy=Google[14.35 G | 200.00 G]
+19:23:10 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=www.google.com:443 rule=DomainSuffix rulePayload=google.com
+19:23:15 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=www.google.com:443 rule=DomainSuffix rulePayload=google.com
+19:23:18 INF [TCP] connected lAddr=127.0.0.1:49586 rAddr=gateway.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:23:20 INF [TCP] connected lAddr=127.0.0.1:49588 rAddr=update.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[14.35 G | 200.00 G]
+19:23:26 INF [TCP] connected lAddr=127.0.0.1:49590 rAddr=p236-caldav.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:23:27 INF [TCP] connected lAddr=127.0.0.1:49592 rAddr=p236-caldav.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:23:27 INF [TCP] connected lAddr=127.0.0.1:49594 rAddr=p236-caldav.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:23:27 INF [TCP] connected lAddr=127.0.0.1:49596 rAddr=gateway.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:23:27 INF [TCP] connected lAddr=127.0.0.1:49598 rAddr=gateway.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:23:27 INF [TCP] connected lAddr=127.0.0.1:49600 rAddr=p236-caldav.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:23:27 INF [TCP] connected lAddr=127.0.0.1:49602 rAddr=p236-caldav.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:23:28 INF [TCP] connected lAddr=127.0.0.1:49604 rAddr=p236-caldav.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:23:28 INF [TCP] connected lAddr=127.0.0.1:49606 rAddr=p236-caldav.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:23:33 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=AI rAddr=ab.chatgpt.com:443 rule=DomainSuffix rulePayload=chatgpt.com
+19:23:33 INF [TCP] connected lAddr=127.0.0.1:49610 rAddr=ab.chatgpt.com:443 mode=rule rule=DomainSuffix(chatgpt.com) proxy=AI[14.35 G | 200.00 G]
+19:23:37 INF [TCP] connected lAddr=127.0.0.1:49612 rAddr=accounts.youtube.com:443 mode=rule rule=DomainKeyword(youtube) proxy=YouTube[14.35 G | 200.00 G]
+19:23:37 INF [TCP] connected lAddr=127.0.0.1:49614 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:23:42 INF [TCP] connected lAddr=127.0.0.1:49616 rAddr=gateway.icloud.com:443 mode=rule rule=DomainSuffix(icloud.com) proxy=Apple[DIRECT]
+19:23:42 INF [TCP] connected lAddr=127.0.0.1:49618 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:23:53 INF [TCP] connected lAddr=127.0.0.1:49630 rAddr=android.clients.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:23:54 INF [TCP] connected lAddr=127.0.0.1:49632 rAddr=accounts.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:23:59 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=rr3---sn-oji3b5-58.googlevideo.com:443 rule=DomainKeyword rulePayload=google
+19:23:59 INF [TCP] connected lAddr=127.0.0.1:49636 rAddr=rr3---sn-oji3b5-58.googlevideo.com:443 mode=rule rule=DomainKeyword(google) proxy=Google[14.35 G | 200.00 G]
+19:24:06 INF [TCP] connected lAddr=127.0.0.1:49638 rAddr=e.clarity.ms:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:24:08 INF [TCP] connected lAddr=127.0.0.1:49643 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:24:08 INF [TCP] connected lAddr=127.0.0.1:49642 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:24:08 INF [TCP] connected lAddr=127.0.0.1:49645 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:24:11 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=www.google.com:443 rule=DomainSuffix rulePayload=google.com
+19:24:13 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=✈️Final rAddr=191.223.220.36:18357 rule=Match rulePayload=
+19:24:13 INF [TCP] connected lAddr=127.0.0.1:49652 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:24:16 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=www.google.com:443 rule=DomainSuffix rulePayload=google.com
+19:24:49 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Google rAddr=www.google.com:443 rule=DomainSuffix rulePayload=google.com
+19:24:49 INF [TCP] connected lAddr=127.0.0.1:49656 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:25:08 INF [TCP] connected lAddr=127.0.0.1:49658 rAddr=e.clarity.ms:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:25:16 INF [TCP] connected lAddr=127.0.0.1:49670 rAddr=fastly.jsdelivr.net:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:25:16 INF [TCP] connected lAddr=127.0.0.1:49671 rAddr=static.cloudflareinsights.com:443 mode=rule rule=Domain(static.cloudflareinsights.com) proxy=AI[14.35 G | 200.00 G]
+19:25:16 INF [TCP] connected lAddr=127.0.0.1:49674 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:25:18 INF [TCP] connected lAddr=127.0.0.1:49676 rAddr=brunhild.challenges.cloudflare.com:443 mode=rule rule=DomainSuffix(challenges.cloudflare.com) proxy=Proxies[14.35 G | 200.00 G]
+19:25:23 WRN [TCP] dial failed error=a6f7e5e493.nxprivateapp.com:42610 connect error: dial tcp4 118.145.211.214:42610: i/o timeout proxy=Proxies rAddr=brunhild.challenges.cloudflare.com:443 rule=DomainSuffix rulePayload=challenges.cloudflare.com
+19:25:27 INF [TCP] connected lAddr=127.0.0.1:49680 rAddr=gateway.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:26:10 INF [TCP] connected lAddr=127.0.0.1:49682 rAddr=e.clarity.ms:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:26:10 INF [TCP] connected lAddr=127.0.0.1:49684 rAddr=e.clarity.ms:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:26:32 INF [TCP] connected lAddr=127.0.0.1:49692 rAddr=cdsassets.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:26:32 INF [TCP] connected lAddr=127.0.0.1:49694 rAddr=sse-ws-p189.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:26:39 INF [TCP] connected lAddr=127.0.0.1:49698 rAddr=oauthaccountmanager.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[14.35 G | 200.00 G]
+19:26:43 INF [TCP] connected lAddr=127.0.0.1:49701 rAddr=history.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:26:46 INF [TCP] connected lAddr=127.0.0.1:49704 rAddr=securitydomain-pa.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[14.35 G | 200.00 G]
+19:26:54 INF [TCP] connected lAddr=127.0.0.1:49707 rAddr=safebrowsing.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[14.35 G | 200.00 G]
+19:27:12 INF [TCP] connected lAddr=127.0.0.1:49710 rAddr=e.clarity.ms:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:27:31 INF [TCP] connected lAddr=127.0.0.1:49712 rAddr=fastly.jsdelivr.net:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:27:31 INF [TCP] connected lAddr=127.0.0.1:49713 rAddr=static.cloudflareinsights.com:443 mode=rule rule=Domain(static.cloudflareinsights.com) proxy=AI[14.35 G | 200.00 G]
+19:27:31 INF [TCP] connected lAddr=127.0.0.1:49717 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:27:33 INF [TCP] connected lAddr=127.0.0.1:49720 rAddr=brunhild.challenges.cloudflare.com:443 mode=rule rule=DomainSuffix(challenges.cloudflare.com) proxy=Proxies[14.35 G | 200.00 G]
+19:27:33 INF [TCP] connected lAddr=127.0.0.1:49722 rAddr=brunhild.challenges.cloudflare.com:443 mode=rule rule=DomainSuffix(challenges.cloudflare.com) proxy=Proxies[14.35 G | 200.00 G]
+19:27:39 INF [TCP] connected lAddr=127.0.0.1:49724 rAddr=ab.chatgpt.com:443 mode=rule rule=DomainSuffix(chatgpt.com) proxy=AI[14.35 G | 200.00 G]
+19:27:43 INF [TCP] connected lAddr=127.0.0.1:49727 rAddr=gdmf.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:27:43 INF [TCP] connected lAddr=127.0.0.1:49730 rAddr=gateway.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:27:45 INF [TCP] connected lAddr=127.0.0.1:49732 rAddr=weatherkit.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:28:08 INF [TCP] connected lAddr=127.0.0.1:49735 rAddr=e.clarity.ms:443 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:28:19 INF [TCP] connected lAddr=127.0.0.1:49737 rAddr=gateway.icloud.com.cn:443 mode=rule rule=DomainSuffix(icloud.com.cn) proxy=Apple[DIRECT]
+19:28:44 INF [TCP] connected lAddr=127.0.0.1:49739 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:28:44 INF [TCP] connected lAddr=127.0.0.1:49742 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:28:44 INF [TCP] connected lAddr=127.0.0.1:49741 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:28:45 INF [TCP] connected lAddr=127.0.0.1:49745 rAddr=content-autofill.googleapis.com:443 mode=rule rule=DomainSuffix(googleapis.com) proxy=Google[14.35 G | 200.00 G]
+19:28:57 INF [TCP] connected lAddr=127.0.0.1:49748 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:28:57 INF [TCP] connected lAddr=127.0.0.1:49750 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:28:57 INF [TCP] connected lAddr=127.0.0.1:49752 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:28:57 INF [TCP] connected lAddr=127.0.0.1:49755 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:28:57 INF [TCP] connected lAddr=127.0.0.1:49754 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:28:57 INF [TCP] connected lAddr=127.0.0.1:49756 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:28:57 INF [TCP] connected lAddr=127.0.0.1:49757 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:29:16 INF [TCP] connected lAddr=127.0.0.1:49762 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:29:33 INF [TCP] connected lAddr=127.0.0.1:49764 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:29:33 INF [TCP] connected lAddr=127.0.0.1:49766 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:29:34 INF [TCP] connected lAddr=127.0.0.1:49769 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:29:34 INF [TCP] connected lAddr=127.0.0.1:49768 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:29:34 INF [TCP] connected lAddr=127.0.0.1:49772 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
+19:29:34 INF [TCP] connected lAddr=127.0.0.1:49774 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:29:38 INF [TCP] connected lAddr=127.0.0.1:49776 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:29:38 INF [TCP] connected lAddr=127.0.0.1:49779 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:29:38 INF [TCP] connected lAddr=127.0.0.1:49781 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:29:38 INF [TCP] connected lAddr=127.0.0.1:49778 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:29:38 INF [TCP] connected lAddr=127.0.0.1:49780 rAddr=191.223.220.36:18357 mode=rule rule=Match() proxy=✈️Final[14.35 G | 200.00 G]
+19:29:53 INF [TCP] connected lAddr=127.0.0.1:49786 rAddr=ocsp2.apple.com:443 mode=rule rule=DomainSuffix(apple.com) proxy=Apple[DIRECT]
+19:29:53 INF [TCP] connected lAddr=127.0.0.1:49788 rAddr=www.google.com:443 mode=rule rule=DomainSuffix(google.com) proxy=Google[14.35 G | 200.00 G]
