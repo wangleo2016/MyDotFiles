@@ -72,8 +72,8 @@ exec-on-workspace-change = ['/bin/bash', '-c', 'sketchybar --trigger aerospace_w
 #                 See:
 #                 https://nikitabobko.github.io/AeroSpace/guide#assign-workspaces-to-monitors
 [gaps]
-    inner.horizontal = 8
-    inner.vertical = 8
+    inner.horizontal = 3
+    inner.vertical = 3
     outer.bottom = 5
     outer.top = [{ monitor."Built-in Retina Display"= 5}, 35]
     outer.right = 5

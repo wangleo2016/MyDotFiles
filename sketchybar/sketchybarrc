@@ -181,7 +181,9 @@ sketchybar --add item clock right \
            --add item ram right \
            --set ram update_freq=10 icon=󰍛 script="$PLUGIN_DIR/ram.sh" \
            --add item cpu right \
-           --set cpu update_freq=10 icon=󰻠 script="$PLUGIN_DIR/cpu.sh"
+           --set cpu update_freq=10 icon=󰻠 script="$PLUGIN_DIR/cpu.sh" \
+           --add item input_source right \
+           --set input_source update_freq=1 icon=♛ script="$PLUGIN_DIR/input_source.sh"
 
 
 ##### Force all scripts to run the first time (never do this in a script) #####

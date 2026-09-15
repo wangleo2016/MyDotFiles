@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Editor backup files
+*~
+
+# Emacs generated/custom files
+emacs/.emacs.custom.el
+emacs/auto-save-list/
+
+# Emacs installed packages and package metadata
+emacs/eln-cache
+emacs/elpa
+
+# Raycast generated/downloaded extensions
+raycast/extensions/
+

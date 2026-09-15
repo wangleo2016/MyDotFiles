@@ -19,6 +19,7 @@ alias la "ls -A"
 alias ll "ls -l"
 alias lla "ll -A"
 alias g git
+alias python python3
 alias sshdmit1 "ssh -i ~/Documents/vps/DMIT_rsa/id_rsa.pem root@154.3.34.55"
 alias sshdmit2 "ssh -i ~/Documents/vps/DMIT_rsa1/id_rsa.pem root@154.12.179.61"
 alias sshdmit3 "ssh -i ~/Documents/vps/DMIT_rsa2/id_rsa.pem root@191.223.220.36"
@@ -55,3 +56,17 @@ end
 if status is-interactive
     proxy_on
 end
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+if test -f /Users/leo/Documents/DevEnvironment/miniconda3/bin/conda
+    eval /Users/leo/Documents/DevEnvironment/miniconda3/bin/conda "shell.fish" "hook" $argv | source
+else
+    if test -f "/Users/leo/Documents/DevEnvironment/miniconda3/etc/fish/conf.d/conda.fish"
+        . "/Users/leo/Documents/DevEnvironment/miniconda3/etc/fish/conf.d/conda.fish"
+    else
+        set -x PATH "/Users/leo/Documents/DevEnvironment/miniconda3/bin" $PATH
+    end
+end
+# <<< conda initialize <<<
+
