@@ -105,12 +105,12 @@
                             "to": [{ "key_code": "left_command" }]
                         },
                         {
-                            "from": { "key_code": "left_control" },
-                            "to": [{ "key_code": "caps_lock" }]
-                        },
-                        {
                             "from": { "key_code": "caps_lock" },
                             "to": [{ "key_code": "left_control" }]
+                        },
+                        {
+                            "from": { "key_code": "left_control" },
+                            "to": [{ "key_code": "caps_lock" }]
                         }
                     ]
                 },

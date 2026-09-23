@@ -24,6 +24,16 @@
 (when (eq system-type 'darwin)
   (setenv "MACOSX_DEPLOYMENT_TARGET" "15.0"))
 
+;; Switch macOS input method to English when Emacs gets focus
+(defun my/switch-to-english-input ()
+  (when (eq system-type 'darwin)
+    (call-process
+     "/opt/homebrew/bin/macism"
+     nil 0 nil
+     "com.apple.keylayout.ABC")))
+
+(add-hook 'focus-in-hook #'my/switch-to-english-input)
+
 
 ;;; multiple cursors
 (rc/require 'multiple-cursors)
